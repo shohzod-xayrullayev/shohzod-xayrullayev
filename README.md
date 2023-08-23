@@ -28,3 +28,5 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+
+![Snake animation](https://github.com/shohzod-xayrullayev/shohzod-xayrullayev/blob/output/github-contribution-grid-snake.svg)
