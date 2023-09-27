@@ -6,9 +6,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **XayrullayevShohzod1@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- 📫 How to reach me **xayrullayevshohzod1@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 ![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
